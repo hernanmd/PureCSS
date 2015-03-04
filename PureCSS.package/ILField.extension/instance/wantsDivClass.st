@@ -1,0 +1,4 @@
+*PureCSS-Iliad
+wantsDivClass
+
+	^ false

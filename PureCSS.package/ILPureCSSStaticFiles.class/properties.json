@@ -1,0 +1,14 @@
+{
+	"category" : "PureCSS-Iliad",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ILPureCSSStaticFiles",
+	"pools" : [
+		 ],
+	"super" : "ILMemoryDirectory",
+	"type" : "normal" }

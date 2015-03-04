@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addField:label:" : "HernanMoralesDurand 10/25/2013 02:27",
+		"checkboxOn:label:" : "HernanMoralesDurand 10/25/2013 03:36",
+		"containersContents" : "HernanMoralesDurand 10/25/2013 02:27",
+		"controlsContainer" : "HernanMoralesDurand 10/25/2013 14:47",
+		"dateInputOn:label:" : "HernanMoralesDurand 10/25/2013 03:36",
+		"defaultButtons" : "HernanMoralesDurand 10/25/2013 15:11",
+		"fileInputOn:label:" : "HernanMoralesDurand 10/25/2013 03:36",
+		"inputOn:label:" : "HernanMoralesDurand 10/25/2013 03:34",
+		"legend" : "HernanMoralesDurand 10/25/2013 16:34",
+		"legend:" : "HernanMoralesDurand 10/25/2013 16:34",
+		"mainFormulaContents" : "HernanMoralesDurand 10/25/2013 02:27",
+		"multipleCheckBoxOn:label:" : "HernanMoralesDurand 10/25/2013 03:35",
+		"numberInputOn:label:" : "HernanMoralesDurand 10/25/2013 03:36",
+		"passwordOn:label:" : "HernanMoralesDurand 10/25/2013 03:35",
+		"repeatedPasswordOn:label:repeatLabel:" : "HernanMoralesDurand 12/23/2013 18:25",
+		"selectOn:label:" : "HernanMoralesDurand 10/25/2013 03:36",
+		"textareaOn:label:" : "HernanMoralesDurand 10/25/2013 03:36" } }

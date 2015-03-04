@@ -1,0 +1,14 @@
+{
+	"category" : "PureCSS-Iliad",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ILPureCSSAlignedFormula",
+	"pools" : [
+		 ],
+	"super" : "ILPureCSSFormula",
+	"type" : "normal" }

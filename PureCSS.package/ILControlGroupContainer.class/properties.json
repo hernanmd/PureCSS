@@ -1,0 +1,17 @@
+{
+	"category" : "PureCSS-Iliad",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "HernanMoralesDurand 10/24/2013 21:51",
+	"instvars" : [
+		"fields",
+		"label",
+		"formula",
+		"pcgDivClass" ],
+	"name" : "ILControlGroupContainer",
+	"pools" : [
+		 ],
+	"super" : "ILWidget",
+	"type" : "normal" }
